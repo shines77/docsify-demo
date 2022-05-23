@@ -322,8 +322,8 @@ search: {
 
 ```js
 pagination: {
-  previousText: '上一章节',
-  nextText: '下一章节',
+  previousText: '上一篇',
+  nextText: '下一篇',
   crossChapter: true,
   crossChapterText: false,
 },
