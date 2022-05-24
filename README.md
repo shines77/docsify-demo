@@ -92,11 +92,11 @@ docsify init ./docs
 
 初始化成功后，可以看到 `./docs` 目录下创建的几个文件：
 
-* index.html：入口文件
-* README.md：会做为主页内容渲染
-* .nojekyll：用于阻止 GitHub Pages 忽略掉下划线开头的文件
+* `index.html`：入口文件
+* `README.md`：会做为主页内容渲染
+* `.nojekyll`：用于阻止 GitHub Pages 忽略掉下划线开头的文件
 
-直接编辑 `docs/README.md` 就能更新文档内容，当然也可以添加更多页面。
+直接编辑 `./docs/README.md` 就能更新文档内容，当然也可以添加更多页面。
 
 预览网站：
 
@@ -358,22 +358,22 @@ Medium's 风格的图片缩放插件. 基于 [medium-zoom](https://github.com/fr
 
 ## 8. 参考文章
 
-1. `[Docsify快速搭建个人博客]`
+1. `Docsify快速搭建个人博客`
 
     [https://www.imooc.com/article/287154](https://www.imooc.com/article/287154)
 
-2. `[Wiki系列（二）：docsify部署及配置]`
+2. `Wiki系列（二）：docsify部署及配置`
 
     [https://juemuren4449.com/archives/docsify-deploy-and-configuration](https://juemuren4449.com/archives/docsify-deploy-and-configuration)
 
-3. `[入坑 docsify，一款神奇的文档生成利器！]`
+3. `入坑 docsify，一款神奇的文档生成利器！`
 
     [https://baijiahao.baidu.com/s?id=1683928475208184783](https://baijiahao.baidu.com/s?id=1683928475208184783)
 
-4. `[Docsify使用指南（打造最快捷、最轻量级的个人&团队文档）]`
+4. `Docsify使用指南（打造最快捷、最轻量级的个人&团队文档）`
 
     [https://www.cnblogs.com/Can-daydayup/p/15413267.html](https://www.cnblogs.com/Can-daydayup/p/15413267.html)
 
-5. `[解决 windows “因为在此系统上禁止运行脚本报错”]`
+5. `解决 windows “因为在此系统上禁止运行脚本报错”`
 
     [https://blog.csdn.net/qq_47183158/article/details/120088725](https://blog.csdn.net/qq_47183158/article/details/120088725)
